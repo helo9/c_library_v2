@@ -1,0 +1,3 @@
+name: MAVLink_c_lib
+build:
+  cmake: .
